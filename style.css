@@ -1,5 +1,5 @@
 body{
-    background: lightgray;
+    background:#8ECAE6;
     font-family: 'Courier New', Courier, monospace;
 }
 .container{
@@ -7,7 +7,7 @@ body{
     width: 480px;
     padding: 26px;
     border-radius: 10px;
-    background-color:#272727;
+    background-color:#023047;
 }
 .header{
     margin: 32px;
@@ -36,8 +36,8 @@ button{
     padding: 30px;
     margin: 10px;
     font-size: 20px;
-    background-color: #272727;
-    color: darkgray;
+    background-color: #219EBC;
+    color: black;
 }
 .buttons{
     margin: auto;

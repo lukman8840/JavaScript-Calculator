@@ -35,7 +35,7 @@ function clearDisplay() {
     firstNumber = null;
     secondNumber = null;
     step = 0;
-    // operation = null;
+    operation = null;
     result = 0;
     numArray.length = 0; // Clear the array by setting its length to 0
     secondNumberArray.length = 0; // Clear the array by setting its length to 0
